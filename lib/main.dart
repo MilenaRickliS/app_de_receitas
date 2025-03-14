@@ -43,7 +43,7 @@ class MenuReceitas extends StatelessWidget{
         padding: EdgeInsets.all(20.0),
           children: <Widget>[
             Card(
-              elevation: 8.0,
+              elevation: 4.0,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(16),
               ),
@@ -108,7 +108,7 @@ class MenuReceitas extends StatelessWidget{
             ),
             SizedBox(height: 20),
             Card(
-              elevation: 8.0,
+              elevation: 4.0,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(16),
               ),
@@ -170,7 +170,7 @@ class MenuReceitas extends StatelessWidget{
             ),
              SizedBox(height: 20),
             Card(
-              elevation: 8.0,
+              elevation: 4.0,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(16),
               ),
@@ -232,7 +232,7 @@ class MenuReceitas extends StatelessWidget{
             ),
              SizedBox(height: 20),
             Card(
-              elevation: 8.0,
+              elevation: 4.0,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(16),
               ),
@@ -294,7 +294,7 @@ class MenuReceitas extends StatelessWidget{
             ),
              SizedBox(height: 20),
             Card(
-              elevation: 8.0,
+              elevation: 4.0,
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(16),
               ),
