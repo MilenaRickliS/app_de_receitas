@@ -40,7 +40,7 @@ class MenuReceitas extends StatelessWidget{
         centerTitle: true,
       ),
       body: ListView(
-        padding: EdgeInsets.all(16.0),
+        padding: EdgeInsets.all(20.0),
           children: <Widget>[
             Card(
               elevation: 8.0,
